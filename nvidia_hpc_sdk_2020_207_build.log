@@ -1,0 +1,5 @@
+[vesso@utopia tmp]$ pgf77 -o test_format -Mextend test_format.f
+NVFORTRAN-S-0034-Syntax error at or near < (test_format.f: 17)
+NVFORTRAN-S-0034-Syntax error at or near < (test_format.f: 18)
+  0 inform,   0 warnings,   2 severes, 0 fatal for test_format
+[vesso@utopia tmp]$

@@ -1,0 +1,2 @@
+[vesso@utopia tmp]$ pgf77 -o test_format test_format.f 
+[vesso@utopia tmp]$
